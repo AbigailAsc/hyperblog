@@ -2,6 +2,4 @@ Recuerda que Git está optimizado para trabajar en equipo, por lo tanto, debemos
  No debemos hacerlo todas las veces que ejecutamos un comando.
  basta con ejecutar solo una sola vez los siguientes comandos con tu información.
 
- Kenia Ascencio- suiza - 28 años
-
-Hoy hablaremos de su obra maestra
+Mañana nos enfocaremos en su vida laboral
