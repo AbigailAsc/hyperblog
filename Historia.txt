@@ -4,4 +4,6 @@ Recuerda que Git está optimizado para trabajar en equipo, por lo tanto, debemos
 
 Master 1
 
+Master 2
+
 Mañana nos enfocaremos en su vida laboral
