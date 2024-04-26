@@ -4,6 +4,8 @@ Recuerda que Git está optimizado para trabajar en equipo, por lo tanto, debemos
 
 Experimento 1
 
+Experimento 2
+
 Master 1
 
 Master 2
